@@ -1,0 +1,37 @@
+body{
+    margin: 20px 50px 10px 50px;
+
+}
+.tomato{
+    color: tomato;
+}
+.header{
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+.submit-area{
+    margin:50px 50px 50px 50px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightslategray;
+}
+#transarea{
+    display: none;
+
+}
+.status{
+    color: white;
+    padding: 20px;
+    margin: 0 50px;
+    border-radius: 10px;
+}
+.diposite{
+    background-color: tomato;
+}
+.withdraw{
+    background-color: rgb(216, 71, 102);
+}
+.balance{
+    background-color: rgba(112, 80, 226, 0.993)
+}
+
